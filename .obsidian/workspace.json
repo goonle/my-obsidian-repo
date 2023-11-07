@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Developer Roadmap/Java/Tools/Jenkins.md",
+                "file": "JS/Questions/JS mouse Event 4 kinds of coordinates(4가지 좌표).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Developer Roadmap/Java/Tools/Jenkins.md",
+                "file": "JS/Questions/JS mouse Event 4 kinds of coordinates(4가지 좌표).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Developer Roadmap/Java/Tools/Jenkins.md",
+                "file": "JS/Questions/JS mouse Event 4 kinds of coordinates(4가지 좌표).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Developer Roadmap/Java/Tools/Jenkins.md"
+                "file": "JS/Questions/JS mouse Event 4 kinds of coordinates(4가지 좌표).md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "35748cef1cc9d787",
   "lastOpenFiles": [
-    "Java Developer Roadmap/Java/Tools/Gradle.md",
+    "Pasted image 20231107172616.png",
+    "JS/Questions/querySelector VS getElementById.md",
+    "JS/Questions/JS mouse Event 4 kinds of coordinates(4가지 좌표).md",
+    "Java Developer Roadmap/Java/Tools/JFR.md",
+    "JS/Questions",
+    "JS",
     "Java Developer Roadmap/Java/Tools/Jenkins.md",
+    "Java Developer Roadmap/Java/Tools/Gradle.md",
     "Java Developer Roadmap/Java/Tools/Maven.md",
     "Java Developer Roadmap/Java/Tools/IDEs/Eclipse.md",
     "Java Developer Roadmap/Java/Tools/Untitled",
