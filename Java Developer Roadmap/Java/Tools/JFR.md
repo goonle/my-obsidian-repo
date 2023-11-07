@@ -1,7 +1,9 @@
-#### JFR이란?
-일단 한글로 된 설명이 있는 블로그는 잘 나오지 않는 것 같아서 Wikipedia를 찾아봤다.
+- JFR(Java Flight Recorder) 메트릭을 사용하여 Java에 대한 실시간 프로파일링
+- 클러스터 전체의 성능 문제를 진단
+- 덤프 데이터
+---
+#### 지원되는 자바 버전
+Java11 이상을 지원하지만 Java8을 선호
 
-##### JDK Flight Recorder
-**JDK Flight Recorder** is an event recorder built into the OpenJDK Java virtual machine. It can be thought of as the software equivalent of a Data Flight Recorder (Black Box) in the comercial aircraft. It captures information about the JVM itself, and the application running in the JVM itself, and the application running in the JVM.
-
-JFR은 이벤트 리코더로 OpenJDK에 빌트인 되어있다.  상업 비행기에 달려있는 데이터 비행 저장소로 생각될 수 있다.(블랙박스). JVM
+## Java Misson Control
+- Java Mission Control 이란 오라클에서 제공되는 Java Advanced 제품의 일부로, 엔터프라이즈의 자바 어플리케이션의 상태를 실시간으로 모니터링 할 수 있는 툴입니다.
