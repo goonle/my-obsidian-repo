@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Developer Roadmap/Java/donno/Generics.md",
+                "file": "JS/g tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Developer Roadmap/Java/donno/Generics.md",
+                "file": "JS/g tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Developer Roadmap/Java/donno/Generics.md",
+                "file": "JS/g tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Developer Roadmap/Java/donno/Generics.md"
+                "file": "JS/g tag.md"
               }
             }
           }
@@ -147,15 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71157283243b081d",
+  "active": "35748cef1cc9d787",
   "lastOpenFiles": [
-    "Java Developer Roadmap/Java/Collection.md",
+    "Java Developer Roadmap/Java/Tools/Concurrency/Processes and Threads.md",
+    "JS/g tag.md",
+    "Java Developer Roadmap/Java/Tools/Concurrency/Concurrency.md",
+    "JS/library/graph/crytoscape.js.md",
+    "JS/library/graph/3d-force-graph.md",
+    "JS/library/graph/3d-force-graph",
+    "Java Developer Roadmap/Java/Tools/Concurrency",
     "Java Developer Roadmap/Java/donno/Generics.md",
+    "Java Developer Roadmap/Java/Collection.md",
     "Java Developer Roadmap/Java/donno",
     "JS/Questions/{...}.md",
     "Pasted image 20231108150416.png",
-    "JS/library/graph/crytoscape.js.md",
-    "JS/library/graph/3d-force-graph.md",
     "JS/library/graph",
     "Java Developer Roadmap/Java/Tools/JShell.md",
     "JS/library",
@@ -169,7 +174,6 @@
     "Java Developer Roadmap/Java/Tools/Gradle.md",
     "Java Developer Roadmap/Java/Tools/Maven.md",
     "Java Developer Roadmap/Java/Tools/IDEs/Eclipse.md",
-    "Java Developer Roadmap/Java/Tools/Untitled",
     "Java Developer Roadmap/Java/Tools/IDEs/VS code.md",
     "Java Developer Roadmap/Java/Tools/IDEs",
     "Java Developer Roadmap/Java/Tools/IDEs/NetBeans.md",
@@ -178,7 +182,6 @@
     "Java Developer Roadmap/Java/Tools",
     "Java Developer Roadmap/Java",
     "Java Developer Roadmap/Git/Git.md",
-    "Java Developer Roadmap/Data structures and Algorithms",
     "Untitled.md"
   ]
 }
