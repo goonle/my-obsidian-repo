@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/g tag.md",
+                "file": "Architecture/RESTful API/RESTful API 설계 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/g tag.md",
+                "file": "Architecture/RESTful API/RESTful API 설계 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/g tag.md",
+                "file": "Architecture/RESTful API/RESTful API 설계 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/g tag.md"
+                "file": "Architecture/RESTful API/RESTful API 설계 방법.md"
               }
             }
           }
@@ -147,10 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35748cef1cc9d787",
+  "active": "89dc371415889b77",
   "lastOpenFiles": [
-    "Java Developer Roadmap/Java/Tools/Concurrency/Processes and Threads.md",
+    "CS/Spring/@Configuration.md",
+    "CS/Spring/Difference Between @Configuration and @Component.md",
+    "Pasted image 20231108150416.png",
+    "Pasted image 20231107172616.png",
+    "Architecture/RESTful API/상태코드의 정의.md",
+    "Architecture/RESTful API/행위의 정의.md",
+    "Architecture/RESTful API/표현의 정의.md",
+    "Architecture/RESTful API/자원의 정의.md",
     "JS/g tag.md",
+    "Java Developer Roadmap/Java/Tools/Concurrency/Processes and Threads.md",
     "Java Developer Roadmap/Java/Tools/Concurrency/Concurrency.md",
     "JS/library/graph/crytoscape.js.md",
     "JS/library/graph/3d-force-graph.md",
@@ -160,13 +168,11 @@
     "Java Developer Roadmap/Java/Collection.md",
     "Java Developer Roadmap/Java/donno",
     "JS/Questions/{...}.md",
-    "Pasted image 20231108150416.png",
     "JS/library/graph",
     "Java Developer Roadmap/Java/Tools/JShell.md",
     "JS/library",
     "Java Developer Roadmap/Java/Tools/JFR.md",
     "JS/Questions/JS mouse Event 4 kinds of coordinates(4가지 좌표).md",
-    "Pasted image 20231107172616.png",
     "JS/Questions/querySelector VS getElementById.md",
     "JS/Questions",
     "JS",
@@ -180,8 +186,6 @@
     "Java Developer Roadmap/Java/Tools/IDEs/iDEA.md",
     "Java Developer Roadmap/Data structures and Algorithms/Binary search (이분 탐색).md",
     "Java Developer Roadmap/Java/Tools",
-    "Java Developer Roadmap/Java",
-    "Java Developer Roadmap/Git/Git.md",
-    "Untitled.md"
+    "Java Developer Roadmap/Java"
   ]
 }
