@@ -18,3 +18,7 @@ CD/CI 툴
 
 #### 그래서 Jenkins란?
 다양한 플러그인들을 활용하여 각종 자동화 작업을 처리하는 툴
+
+#java-developer-roadmap
+#java 
+#tool

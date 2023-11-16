@@ -22,3 +22,10 @@ Thread들은 프로세스 안에 존재합니다. 모든 프로세스들은 최�
 그러나 어플리케이션 프로그래머의 관점에서 보자면, 당신은 오직 한개의 "메인"쓰레드를 시작합니다. 이 쓰레드는 추가적인 쓰레드들을 생성하는 능력을 가지고 있습니다. 
 
 [출처: 오라클 자바 튜토리얼](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html)
+
+
+
+#java-developer-roadmap
+#java 
+#jdk
+#concurrency

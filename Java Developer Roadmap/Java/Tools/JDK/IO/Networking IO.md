@@ -26,3 +26,11 @@ public class MyClass {
 ```
 
 이 예제에서 process() 는 이 InputStream이 파라미터가 파일시스템에서 오는지 네트워크에서 오는지 알지 못한다. 단지 process() 메소드는 InputStream 위에서 작동할 뿐이다.
+
+
+
+
+#java-developer-roadmap
+#java 
+#jdk
+#io

@@ -9,3 +9,9 @@ java 5 에 future가 추가되면서 비동기 작업에 대한 결과 값을 �
 
 #### Completable Future 클래스
 CompletableFuture는 기존의 Future기반으로 외부에서 완료시킬 수 있어 CompletableFuture라는 이름을 같게 되었다. Future 외에도 CompletableStage 인터페이스도 구현하고 있는데, CompletionStage는 작업들을 중첩시키거나 완료 후 콜백읠 위해 추가되었다. 예를 들어  Future에서는 불가능했던 "몇 초 이내에 응답이 안오면 기본값을 반환한다." 와 같은 작업이 가능해 진것이다. 즉, Future으ㅟ 진화된 형태로써 외부에서 작업을 온려시킬 수 있을 뿐만 아니라 콜백 등록 및 Future 조합등이 가능해졌다
+
+
+#java-developer-roadmap
+#java 
+#jdk
+#concurrency

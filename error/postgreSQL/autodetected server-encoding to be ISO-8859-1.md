@@ -2,4 +2,5 @@
 
 ## [[pg_hba.conf 수정하기]]
 
-#postgeSQL 
+#postgeSQL
+#error

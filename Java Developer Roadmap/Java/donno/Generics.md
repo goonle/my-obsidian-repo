@@ -15,3 +15,6 @@ LinkedList<Character> list4 = new LinkedList<Character>();
 클래스 내부에서 지정하는 것이 아닌 사용자가 사용할 때 지정되는 것을 의미
 
 
+#java-developer-roadmap
+#java 
+#donno

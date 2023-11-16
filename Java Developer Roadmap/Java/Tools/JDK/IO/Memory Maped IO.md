@@ -21,3 +21,10 @@ Memory-mapped I/O는 사용자의 파일 시스템 페이지로 부터 직접적
 2. Memory-mapped file에서 읽기와 쓰기는 보통 디스크에 내용을 작성하는 운영 시스템이 주로 한다.
 3. 더 나은 성능을 위해 Direct buffer를 Indirect Buffer보다 선호합니다.
 4. 파일을 읽는 메모리는 자바 힙 영역 밖에 있고 파일에 접근하는 두가지 방법을 제공하는 공유 메모리에 위치합니다. 하지만 이것은 사용자의 사용 버퍼에 달려있습니다
+
+
+
+#java-developer-roadmap
+#java 
+#jdk
+#io

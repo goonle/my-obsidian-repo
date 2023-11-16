@@ -16,3 +16,6 @@
 
 ##### MouseEvent.offsetX
 클릭 이벤트 target 노드가 좌표 원점의 기준이 되고 클릭 이벤트가 발생한 좌표값은 그 원점을 기준으로 X, Y 좌표값이 계산
+
+#js 
+#donno

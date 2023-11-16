@@ -6,3 +6,10 @@
 작업처리에 사용되는 스레드를 제한된 개수만큼 정해두고 작업 Queue에 들어오는 작업들을 하나씩 처리한다.
 
 Java에서는 Thread Pool을 생성하고 사용할 수 있도록 java.util.concurrent.Executors 클래스와 java.util.concurrent.ExecutprService 인터페이스를 제공한다.
+
+
+
+#java-developer-roadmap
+#java 
+#jdk
+#concurrency

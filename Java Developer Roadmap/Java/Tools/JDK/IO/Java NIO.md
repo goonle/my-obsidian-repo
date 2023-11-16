@@ -22,3 +22,9 @@ C/C++처럼 직접 메모리를 관리하고 운영체제 수준의 시스템 �
 	- NIO는 Channel을 사용하기 때문에 하나의 스레드로 여러개의 처리를 할 수 있다.
 - NIO의 buffer 사용의 용량은 작다
 	- 입출력이 빈번하고 하나의 작업이 빠른 경우 NIO가 효과적이다.
+
+
+#java-developer-roadmap
+#java 
+#jdk
+#io
