@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/RESTful API/RESTful API 설계 방법.md",
+                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plugin",
+                "query": "tag:#not-done-yet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/RESTful API/RESTful API 설계 방법.md",
+                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/RESTful API/RESTful API 설계 방법.md",
+                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/RESTful API/RESTful API 설계 방법.md"
+                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md"
               }
             }
           }
@@ -147,45 +147,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89dc371415889b77",
+  "active": "35748cef1cc9d787",
   "lastOpenFiles": [
-    "CS/Spring/@Configuration.md",
-    "CS/Spring/Difference Between @Configuration and @Component.md",
-    "Pasted image 20231108150416.png",
-    "Pasted image 20231107172616.png",
-    "Architecture/RESTful API/상태코드의 정의.md",
-    "Architecture/RESTful API/행위의 정의.md",
-    "Architecture/RESTful API/표현의 정의.md",
-    "Architecture/RESTful API/자원의 정의.md",
-    "JS/g tag.md",
-    "Java Developer Roadmap/Java/Tools/Concurrency/Processes and Threads.md",
-    "Java Developer Roadmap/Java/Tools/Concurrency/Concurrency.md",
-    "JS/library/graph/crytoscape.js.md",
+    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/switch expression.md",
+    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
+    "CS/DBMS/postgreSQL/dblink.md",
+    "CS/DBMS/postgreSQL/권한부여하기.md",
+    "CS/Python/ord.md",
+    "CS/DBMS",
+    "CS/BC4-4-for-window.md",
+    "2023-11-16.md",
+    "CS/Python/args 와 kwargs.md",
+    "CS/Python/Python - Decorator.md",
+    "english/Engoo/Study Looks a t Parents' Influence on College Choices.md",
+    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Date API.md",
+    "english/Engoo",
+    "english/Untitled.md",
+    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Optional class.md",
+    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Stream API.md",
     "JS/library/graph/3d-force-graph.md",
-    "JS/library/graph/3d-force-graph",
-    "Java Developer Roadmap/Java/Tools/Concurrency",
-    "Java Developer Roadmap/Java/donno/Generics.md",
-    "Java Developer Roadmap/Java/Collection.md",
-    "Java Developer Roadmap/Java/donno",
-    "JS/Questions/{...}.md",
-    "JS/library/graph",
-    "Java Developer Roadmap/Java/Tools/JShell.md",
-    "JS/library",
-    "Java Developer Roadmap/Java/Tools/JFR.md",
-    "JS/Questions/JS mouse Event 4 kinds of coordinates(4가지 좌표).md",
-    "JS/Questions/querySelector VS getElementById.md",
-    "JS/Questions",
-    "JS",
-    "Java Developer Roadmap/Java/Tools/Jenkins.md",
-    "Java Developer Roadmap/Java/Tools/Gradle.md",
-    "Java Developer Roadmap/Java/Tools/Maven.md",
-    "Java Developer Roadmap/Java/Tools/IDEs/Eclipse.md",
-    "Java Developer Roadmap/Java/Tools/IDEs/VS code.md",
-    "Java Developer Roadmap/Java/Tools/IDEs",
-    "Java Developer Roadmap/Java/Tools/IDEs/NetBeans.md",
-    "Java Developer Roadmap/Java/Tools/IDEs/iDEA.md",
-    "Java Developer Roadmap/Data structures and Algorithms/Binary search (이분 탐색).md",
-    "Java Developer Roadmap/Java/Tools",
-    "Java Developer Roadmap/Java"
+    "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
+    "CS/ETC/OEM 계약.md",
+    "Book",
+    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Lambdas.md",
+    "Java Developer Roadmap/Client API/GraphQL 백엔드 개발.md",
+    "Java Developer Roadmap/Client API",
+    "Pasted image 20231122081904.png",
+    "Java Developer Roadmap/Client API/GraphQL이란.md",
+    "english/30 days of cold shower.md",
+    "Architecture/DB/RocksDB.md",
+    "Architecture/DB/개체 무결성.md",
+    "CS/Security/보안 - 시그니처.md",
+    "CS/ETC",
+    "CS/Security",
+    "algorythms/baekjoon/2577.md",
+    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Functional Programming.md",
+    "Pasted image 20231116185513.png",
+    "Pasted image 20231115090220.png",
+    "Pasted image 20231115090219.png",
+    "함수진화.png",
+    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)",
+    "Java Developer Roadmap/Java/Tools/JDK/IO/Untitled",
+    "Java Developer Roadmap/Java/Tools/JDK/IO",
+    "Java Developer Roadmap/Java/Tools/JDK",
+    "Pasted image 20231108150416.png",
+    "Pasted image 20231107172616.png"
   ]
 }
