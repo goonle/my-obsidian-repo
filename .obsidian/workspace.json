@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
+                "file": "CS/algorythms/baekjoon/2108.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
+                "file": "CS/algorythms/baekjoon/2108.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
+                "file": "CS/algorythms/baekjoon/2108.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md"
+                "file": "CS/algorythms/baekjoon/2108.md"
               }
             }
           }
@@ -149,15 +149,17 @@
   },
   "active": "35748cef1cc9d787",
   "lastOpenFiles": [
-    "CS/JS/library/3D/A-FRAME/Starting with HTML.md",
+    "CS/algorythms/baekjoon/1966.md",
+    "CS/algorythms/baekjoon/2108.md",
+    "CS/algorythms/baekjoon/1929.md",
     "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
+    "CS/JS/library/3D/A-FRAME/Starting with HTML.md",
     "CS/JS/library/3D/A-FRAME/A-FRAME.md",
     "CS/JS/library/3D/A-FRAME",
     "CS/JS/library/3D",
     "CS/Python/Decision Tree.md",
     "CS/Python/One-Hot Encoding.md",
     "CS/JS/버리기아까운코드/DataRows to HighChart data.md",
-    "CS/algorythms/baekjoon/1929.md",
     "CS/JS/버리기아까운코드",
     "CS/DBMS/postgreSQL/dblink - 2.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
@@ -178,9 +180,7 @@
     "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Stream API.md",
     "JS/library/graph/3d-force-graph.md",
     "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
-    "CS/ETC/OEM 계약.md",
     "Book",
-    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Lambdas.md",
     "Java Developer Roadmap/Client API",
     "Pasted image 20231122081904.png",
     "CS/ETC",
