@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
+                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
+                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
+                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md"
+                "file": "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md"
               }
             }
           }
@@ -149,8 +149,19 @@
   },
   "active": "35748cef1cc9d787",
   "lastOpenFiles": [
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/switch expression.md",
+    "CS/JS/library/3D/A-FRAME/Starting with HTML.md",
+    "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
+    "CS/JS/library/3D/A-FRAME/A-FRAME.md",
+    "CS/JS/library/3D/A-FRAME",
+    "CS/JS/library/3D",
+    "CS/Python/Decision Tree.md",
+    "CS/Python/One-Hot Encoding.md",
+    "CS/JS/버리기아까운코드/DataRows to HighChart data.md",
+    "CS/algorythms/baekjoon/1929.md",
+    "CS/JS/버리기아까운코드",
+    "CS/DBMS/postgreSQL/dblink - 2.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
+    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/switch expression.md",
     "CS/DBMS/postgreSQL/dblink.md",
     "CS/DBMS/postgreSQL/권한부여하기.md",
     "CS/Python/ord.md",
@@ -170,26 +181,15 @@
     "CS/ETC/OEM 계약.md",
     "Book",
     "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Lambdas.md",
-    "Java Developer Roadmap/Client API/GraphQL 백엔드 개발.md",
     "Java Developer Roadmap/Client API",
     "Pasted image 20231122081904.png",
-    "Java Developer Roadmap/Client API/GraphQL이란.md",
-    "english/30 days of cold shower.md",
-    "Architecture/DB/RocksDB.md",
-    "Architecture/DB/개체 무결성.md",
-    "CS/Security/보안 - 시그니처.md",
     "CS/ETC",
     "CS/Security",
-    "algorythms/baekjoon/2577.md",
-    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Functional Programming.md",
     "Pasted image 20231116185513.png",
     "Pasted image 20231115090220.png",
     "Pasted image 20231115090219.png",
     "함수진화.png",
     "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)",
-    "Java Developer Roadmap/Java/Tools/JDK/IO/Untitled",
-    "Java Developer Roadmap/Java/Tools/JDK/IO",
-    "Java Developer Roadmap/Java/Tools/JDK",
     "Pasted image 20231108150416.png",
     "Pasted image 20231107172616.png"
   ]
