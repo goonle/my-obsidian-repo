@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/ETC/Blog/Blog를 시작하자.md",
+                "file": "CS/algorythms/baekjoon/1874.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/ETC/Blog/Blog를 시작하자.md",
+                "file": "CS/algorythms/baekjoon/1874.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/ETC/Blog/Blog를 시작하자.md",
+                "file": "CS/algorythms/baekjoon/1874.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/ETC/Blog/Blog를 시작하자.md"
+                "file": "CS/algorythms/baekjoon/1874.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "35748cef1cc9d787",
   "lastOpenFiles": [
-    "CS/algorythms/baekjoon/18111.md",
     "CS/ETC/Blog/Blog를 시작하자.md",
+    "CS/algorythms/baekjoon/1874.md",
+    "CS/algorythms/baekjoon/18111.md",
     "CS/ETC/Blog",
     "CS/algorythms/baekjoon/2108.md",
     "CS/algorythms/baekjoon/1966.md",
@@ -180,7 +181,6 @@
     "english/Engoo",
     "english/Untitled.md",
     "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Optional class.md",
-    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Stream API.md",
     "Book",
     "Java Developer Roadmap/Client API",
     "Pasted image 20231122081904.png",
