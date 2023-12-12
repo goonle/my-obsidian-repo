@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/algorythms/baekjoon/1874.md",
+                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62275ac07d705902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/ETC/Blog/Jekyll/Jekyll 템플릿으로 블로그 생성하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "753b423c202fe6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby and beyond basic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0435d9339e90dd66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby and variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/algorythms/baekjoon/1874.md",
+                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/algorythms/baekjoon/1874.md",
+                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/algorythms/baekjoon/1874.md"
+                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md"
               }
             }
           }
@@ -147,10 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35748cef1cc9d787",
+  "active": "89dc371415889b77",
   "lastOpenFiles": [
     "CS/ETC/Blog/Blog를 시작하자.md",
+    "CS/ETC/Blog/Jekyll이란.md",
+    "CS/ETC/Blog/Jekyll/Jekyll 템플릿으로 블로그 생성하기.md",
+    "CS/ETC/Blog/Jekyll",
+    "CS/Ruby/Ruby 설명을 읽고.md",
+    "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
+    "Ruby and beyond basic.md",
+    "CS/Ruby/Ruby.md",
+    "CS/Ruby/Ruby features/Ruby and flexiblity.md",
+    "CS/Ruby/Ruby features",
+    "Ruby and variables.md",
+    "CS/Ruby/Ruby features/Ruby and mix-in.md",
+    "CS/Ruby/Ruby features/Ruby and mixin.md",
+    "Ruby and block.md",
+    "CS/Ruby/Ruby features/Ruby and Object.md",
     "CS/algorythms/baekjoon/1874.md",
+    "CS/Ruby",
     "CS/algorythms/baekjoon/18111.md",
     "CS/ETC/Blog",
     "CS/algorythms/baekjoon/2108.md",
@@ -166,26 +217,10 @@
     "CS/JS/버리기아까운코드/DataRows to HighChart data.md",
     "CS/JS/버리기아까운코드",
     "CS/DBMS/postgreSQL/dblink - 2.md",
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/switch expression.md",
-    "CS/DBMS/postgreSQL/dblink.md",
-    "CS/DBMS/postgreSQL/권한부여하기.md",
-    "CS/Python/ord.md",
     "CS/DBMS",
-    "CS/BC4-4-for-window.md",
-    "2023-11-16.md",
-    "CS/Python/args 와 kwargs.md",
-    "CS/Python/Python - Decorator.md",
-    "english/Engoo/Study Looks a t Parents' Influence on College Choices.md",
-    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Date API.md",
     "english/Engoo",
-    "english/Untitled.md",
-    "Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Optional class.md",
     "Book",
-    "Java Developer Roadmap/Client API",
     "Pasted image 20231122081904.png",
-    "CS/ETC",
-    "CS/Security",
     "Pasted image 20231116185513.png",
     "Pasted image 20231115090220.png",
     "Pasted image 20231115090219.png",
