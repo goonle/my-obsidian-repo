@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
+                "file": "CS/algorythms/baekjoon/1764.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
+                "file": "CS/algorythms/baekjoon/1764.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
+                "file": "CS/algorythms/baekjoon/1764.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/ETC/Blog/Jekyll/Jekkyll이란.md"
+                "file": "CS/algorythms/baekjoon/1764.md"
               }
             }
           }
@@ -183,14 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89dc371415889b77",
+  "active": "35748cef1cc9d787",
   "lastOpenFiles": [
+    "CS/algorythms/baekjoon/1620.md",
+    "CS/algorythms/baekjoon/1764.md",
+    "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
     "CS/ETC/Blog/Blog를 시작하자.md",
     "CS/ETC/Blog/Jekyll이란.md",
     "CS/ETC/Blog/Jekyll/Jekyll 템플릿으로 블로그 생성하기.md",
     "CS/ETC/Blog/Jekyll",
     "CS/Ruby/Ruby 설명을 읽고.md",
-    "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
     "Ruby and beyond basic.md",
     "CS/Ruby/Ruby.md",
     "CS/Ruby/Ruby features/Ruby and flexiblity.md",
@@ -216,7 +218,6 @@
     "CS/Python/One-Hot Encoding.md",
     "CS/JS/버리기아까운코드/DataRows to HighChart data.md",
     "CS/JS/버리기아까운코드",
-    "CS/DBMS/postgreSQL/dblink - 2.md",
     "CS/DBMS",
     "english/Engoo",
     "Book",
