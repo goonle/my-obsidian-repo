@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/algorythms/baekjoon/1764.md",
+                "file": "CS/JS/library/3D/3D with fontawesome icon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65475f903e42bb18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fontawesome icon hex code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d98943c1a4374fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String.fromCharCode().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "536b68679f75c6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "createjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/algorythms/baekjoon/1764.md",
+                "file": "CS/JS/library/3D/3D with fontawesome icon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/algorythms/baekjoon/1764.md",
+                "file": "CS/JS/library/3D/3D with fontawesome icon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/algorythms/baekjoon/1764.md"
+                "file": "CS/JS/library/3D/3D with fontawesome icon.md"
               }
             }
           }
@@ -185,8 +221,13 @@
   },
   "active": "35748cef1cc9d787",
   "lastOpenFiles": [
-    "CS/algorythms/baekjoon/1620.md",
+    "fontawesome icon hex code.md",
+    "String.fromCharCode().md",
+    "createjs.md",
+    "CS/JS/library/3D/3D with fontawesome icon.md",
+    "Ruby and variables.md",
     "CS/algorythms/baekjoon/1764.md",
+    "CS/algorythms/baekjoon/1620.md",
     "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
     "CS/ETC/Blog/Blog를 시작하자.md",
     "CS/ETC/Blog/Jekyll이란.md",
@@ -197,7 +238,6 @@
     "CS/Ruby/Ruby.md",
     "CS/Ruby/Ruby features/Ruby and flexiblity.md",
     "CS/Ruby/Ruby features",
-    "Ruby and variables.md",
     "CS/Ruby/Ruby features/Ruby and mix-in.md",
     "CS/Ruby/Ruby features/Ruby and mixin.md",
     "Ruby and block.md",
@@ -211,12 +251,8 @@
     "CS/algorythms/baekjoon/1929.md",
     "CS/JS/library/3D/A-FRAME/gltf-model 적용하기.md",
     "CS/JS/library/3D/A-FRAME/Starting with HTML.md",
-    "CS/JS/library/3D/A-FRAME/A-FRAME.md",
     "CS/JS/library/3D/A-FRAME",
     "CS/JS/library/3D",
-    "CS/Python/Decision Tree.md",
-    "CS/Python/One-Hot Encoding.md",
-    "CS/JS/버리기아까운코드/DataRows to HighChart data.md",
     "CS/JS/버리기아까운코드",
     "CS/DBMS",
     "english/Engoo",
