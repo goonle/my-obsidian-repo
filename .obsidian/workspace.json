@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
+                "file": "CS/Python/dict_list to list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
+                "file": "CS/Python/dict_list to list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
+                "file": "CS/Python/dict_list to list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md"
+                "file": "CS/Python/dict_list to list.md"
               }
             }
           }
@@ -149,11 +149,14 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
+    "CS/Python/numpy.md",
+    "CS/Python/args 와 kwargs.md",
+    "CS/Python/dict_list to list.md",
+    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Stream API.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/switch expression.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Sealed Classes.md",
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
     "CS/ETC/polling.md",
     "CS/JS/library/3D/3D with fontawesome icon.md",
     "fontawesome icon hex code.md",
@@ -174,9 +177,6 @@
     "CS/Ruby/Ruby features",
     "CS/Ruby/Ruby features/Ruby and mix-in.md",
     "CS/Ruby/Ruby features/Ruby and mixin.md",
-    "Ruby and block.md",
-    "CS/Ruby/Ruby features/Ruby and Object.md",
-    "CS/algorythms/baekjoon/1874.md",
     "CS/Ruby",
     "CS/ETC/Blog",
     "CS/JS/library/3D/A-FRAME",
