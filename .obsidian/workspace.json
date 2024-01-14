@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Python/dict_list to list.md",
+                "file": "CS/algorythms/baekjoon/17626.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f1af6cfda9e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Spring/@RestController.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Python/dict_list to list.md",
+                "file": "CS/Spring/@RestController.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Python/dict_list to list.md",
+                "file": "CS/Spring/@RestController.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Python/dict_list to list.md"
+                "file": "CS/Spring/@RestController.md"
               }
             }
           }
@@ -147,11 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b0d4a0633cd61fa",
+  "active": "a5f1af6cfda9e8f1",
   "lastOpenFiles": [
+    "CS/Spring/@SpringBootApplication.md",
+    "CS/Spring/@RestController.md",
+    "CS/Linux/shell script 배치파일 만들기.md",
+    "CS/Spring/Spring의 컨셉.md",
+    "CS/Spring/Spring VS Spring Boot.md",
+    "CS/Spring/Spring Boot의 특징.md",
+    "CS/Linux",
+    "CS/Python/dict_list to list.md",
+    "CS/algorythms/baekjoon/17626.md",
     "CS/Python/numpy.md",
     "CS/Python/args 와 kwargs.md",
-    "CS/Python/dict_list to list.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Stream API.md",
@@ -168,15 +189,8 @@
     "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
     "CS/ETC/Blog/Blog를 시작하자.md",
     "CS/ETC/Blog/Jekyll이란.md",
-    "CS/ETC/Blog/Jekyll/Jekyll 템플릿으로 블로그 생성하기.md",
     "CS/ETC/Blog/Jekyll",
-    "CS/Ruby/Ruby 설명을 읽고.md",
-    "Ruby and beyond basic.md",
-    "CS/Ruby/Ruby.md",
-    "CS/Ruby/Ruby features/Ruby and flexiblity.md",
     "CS/Ruby/Ruby features",
-    "CS/Ruby/Ruby features/Ruby and mix-in.md",
-    "CS/Ruby/Ruby features/Ruby and mixin.md",
     "CS/Ruby",
     "CS/ETC/Blog",
     "CS/JS/library/3D/A-FRAME",
@@ -184,7 +198,6 @@
     "CS/JS/버리기아까운코드",
     "CS/DBMS",
     "english/Engoo",
-    "Book",
     "Pasted image 20231122081904.png",
     "Pasted image 20231116185513.png",
     "Pasted image 20231115090220.png",
