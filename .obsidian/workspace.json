@@ -23,11 +23,9 @@
             "id": "a5f1af6cfda9e8f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CS/Spring/@RestController.md",
-                "mode": "source",
-                "source": false
+                "file": "함수진화.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Spring/@RestController.md",
+                "file": "함수진화.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Spring/@RestController.md",
+                "file": "함수진화.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Spring/@RestController.md"
+                "file": "함수진화.png"
               }
             }
           }
@@ -162,8 +160,15 @@
   },
   "active": "a5f1af6cfda9e8f1",
   "lastOpenFiles": [
-    "CS/Spring/@SpringBootApplication.md",
+    "String.fromCharCode().md",
+    "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
+    "CS/Ruby/Ruby and variables.md",
+    "CS/Ruby/Ruby and block.md",
+    "CS/Ruby/Ruby and beyond basic.md",
+    "images/Pasted image 20231107172616.png",
     "CS/Spring/@RestController.md",
+    "images",
+    "CS/Spring/@SpringBootApplication.md",
     "CS/Linux/shell script 배치파일 만들기.md",
     "CS/Spring/Spring의 컨셉.md",
     "CS/Spring/Spring VS Spring Boot.md",
@@ -181,14 +186,9 @@
     "CS/ETC/polling.md",
     "CS/JS/library/3D/3D with fontawesome icon.md",
     "fontawesome icon hex code.md",
-    "String.fromCharCode().md",
     "createjs.md",
-    "Ruby and variables.md",
     "CS/algorythms/baekjoon/1764.md",
     "CS/algorythms/baekjoon/1620.md",
-    "CS/ETC/Blog/Jekyll/Jekkyll이란.md",
-    "CS/ETC/Blog/Blog를 시작하자.md",
-    "CS/ETC/Blog/Jekyll이란.md",
     "CS/ETC/Blog/Jekyll",
     "CS/Ruby/Ruby features",
     "CS/Ruby",
@@ -197,13 +197,11 @@
     "CS/JS/library/3D",
     "CS/JS/버리기아까운코드",
     "CS/DBMS",
-    "english/Engoo",
-    "Pasted image 20231122081904.png",
-    "Pasted image 20231116185513.png",
-    "Pasted image 20231115090220.png",
-    "Pasted image 20231115090219.png",
+    "images/Pasted image 20231122081904.png",
+    "images/Pasted image 20231116185513.png",
+    "images/Pasted image 20231115090220.png",
+    "images/Pasted image 20231115090219.png",
     "함수진화.png",
-    "Pasted image 20231108150416.png",
-    "Pasted image 20231107172616.png"
+    "images/Pasted image 20231108150416.png"
   ]
 }
