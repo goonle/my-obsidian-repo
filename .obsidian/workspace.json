@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/algorythms/baekjoon/17626.md",
+                "file": "CS/JS/remove duplicates.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a5f1af6cfda9e8f1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "함수진화.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함수진화.png",
+                "file": "CS/JS/remove duplicates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함수진화.png",
+                "file": "CS/JS/remove duplicates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "함수진화.png"
+                "file": "CS/JS/remove duplicates.md"
               }
             }
           }
@@ -158,9 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5f1af6cfda9e8f1",
+  "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "String.fromCharCode().md",
+    "CS/algorythms/baekjoon/17626.md",
+    "CS/JS/remove duplicates.md",
+    "english/Engoo/Is 'Blue Monday' the Saddest Day of the Year.md",
+    "2023-12-18.md",
+    "함수진화.png",
+    "CS/JS/createjs.md",
+    "fontawesome icon hex code.md",
+    "CS/JS/String.fromCharCode().md",
+    "CS/SPLUNK/Splunk 말이 출현하는 이유.md",
+    "CS/SPLUNK",
+    "Pasted image 20240125091656.png",
     "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
     "CS/Ruby/Ruby and variables.md",
     "CS/Ruby/Ruby and block.md",
@@ -175,7 +174,6 @@
     "CS/Spring/Spring Boot의 특징.md",
     "CS/Linux",
     "CS/Python/dict_list to list.md",
-    "CS/algorythms/baekjoon/17626.md",
     "CS/Python/numpy.md",
     "CS/Python/args 와 kwargs.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
@@ -183,12 +181,6 @@
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Stream API.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/switch expression.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Sealed Classes.md",
-    "CS/ETC/polling.md",
-    "CS/JS/library/3D/3D with fontawesome icon.md",
-    "fontawesome icon hex code.md",
-    "createjs.md",
-    "CS/algorythms/baekjoon/1764.md",
-    "CS/algorythms/baekjoon/1620.md",
     "CS/ETC/Blog/Jekyll",
     "CS/Ruby/Ruby features",
     "CS/Ruby",
@@ -196,12 +188,10 @@
     "CS/JS/library/3D/A-FRAME",
     "CS/JS/library/3D",
     "CS/JS/버리기아까운코드",
-    "CS/DBMS",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
     "images/Pasted image 20231115090219.png",
-    "함수진화.png",
     "images/Pasted image 20231108150416.png"
   ]
 }
