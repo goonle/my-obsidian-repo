@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS/remove duplicates.md",
+                "file": "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS/remove duplicates.md",
+                "file": "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS/remove duplicates.md",
+                "file": "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS/remove duplicates.md"
+                "file": "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/algorythms/baekjoon/17626.md",
+    "CS/Deploy/Canary Release(카나리 배포).md",
+    "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
+    "CS/Web Server",
+    "CS/Tips/BC4-4-for-window.md",
+    "CS/Deploy",
+    "CS/Java Developer Roadmap/Java/donno/Generics.md",
     "CS/JS/remove duplicates.md",
+    "CS/algorythms/baekjoon/17626.md",
     "english/Engoo/Is 'Blue Monday' the Saddest Day of the Year.md",
     "2023-12-18.md",
     "함수진화.png",
@@ -177,17 +183,11 @@
     "CS/Python/numpy.md",
     "CS/Python/args 와 kwargs.md",
     "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Record.md",
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/yield.md",
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Stream API.md",
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/switch expression.md",
-    "CS/Java Developer Roadmap/Java/Tools/JDK/Java 17 (LTS)/Sealed Classes.md",
     "CS/ETC/Blog/Jekyll",
     "CS/Ruby/Ruby features",
     "CS/Ruby",
     "CS/ETC/Blog",
     "CS/JS/library/3D/A-FRAME",
-    "CS/JS/library/3D",
-    "CS/JS/버리기아까운코드",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
