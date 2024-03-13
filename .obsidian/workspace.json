@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/SQL/컬럼에 json 배열 만들기.md",
+                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/SQL/컬럼에 json 배열 만들기.md",
+                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/SQL/컬럼에 json 배열 만들기.md",
+                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/SQL/컬럼에 json 배열 만들기.md"
+                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
+    "Pasted image 20240313193112.png",
+    "throw.md",
+    "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
     "CS/SQL/컬럼에 json 배열 만들기.md",
+    "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
     "CS/SQL",
     "CS/Untitled.md",
     "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
@@ -181,10 +184,7 @@
     "CS/Spring/@SpringBootApplication.md",
     "CS/Linux/shell script 배치파일 만들기.md",
     "CS/Spring/Spring의 컨셉.md",
-    "CS/Spring/Spring VS Spring Boot.md",
-    "CS/Spring/Spring Boot의 특징.md",
     "CS/Linux",
-    "CS/Python/dict_list to list.md",
     "CS/ETC/Blog/Jekyll",
     "CS/Ruby/Ruby features",
     "CS/Ruby",
