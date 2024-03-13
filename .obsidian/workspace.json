@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
+                "file": "CS/SQL/컬럼에 json 배열 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
+                "file": "CS/SQL/컬럼에 json 배열 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
+                "file": "CS/SQL/컬럼에 json 배열 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md"
+                "file": "CS/SQL/컬럼에 json 배열 만들기.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
     "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
+    "CS/SQL/컬럼에 json 배열 만들기.md",
+    "CS/SQL",
+    "CS/Untitled.md",
+    "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
     "CS/Java Developer Roadmap/Java/lib",
     "CS/Deploy/Canary Release(카나리 배포).md",
     "CS/Web Server",
@@ -182,12 +185,9 @@
     "CS/Spring/Spring Boot의 특징.md",
     "CS/Linux",
     "CS/Python/dict_list to list.md",
-    "CS/Python/numpy.md",
-    "CS/Python/args 와 kwargs.md",
     "CS/ETC/Blog/Jekyll",
     "CS/Ruby/Ruby features",
     "CS/Ruby",
-    "CS/ETC/Blog",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
