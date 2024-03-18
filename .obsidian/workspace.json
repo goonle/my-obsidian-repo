@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Certificate/List.md",
+                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Certificate/List.md",
+                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Certificate/List.md",
+                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Certificate/List.md"
+                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/JS/library/3D/외주 코드 리뷰- 1주차 (총 3주).md",
+    "CS/Java Developer Roadmap/Java/donno/Are values returned by static method are static in Java.md",
+    "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
+    "CS/Java Developer Roadmap/Java/JSP",
     "CS/Certificate/List.md",
+    "CS/JS/library/3D/외주 코드 리뷰- 1주차 (총 3주).md",
     "CS/Certificate",
     "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
     "Pasted image 20240313193112.png",
@@ -184,11 +187,8 @@
     "images/Pasted image 20231107172616.png",
     "CS/Spring/@RestController.md",
     "images",
-    "CS/Spring/@SpringBootApplication.md",
-    "CS/Linux/shell script 배치파일 만들기.md",
     "CS/Linux",
     "CS/ETC/Blog/Jekyll",
-    "CS/Ruby/Ruby features",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
