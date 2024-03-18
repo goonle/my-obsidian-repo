@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
+                "file": "CS/Certificate/List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
+                "file": "CS/Certificate/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
+                "file": "CS/Certificate/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md"
+                "file": "CS/Certificate/List.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
+    "CS/JS/library/3D/외주 코드 리뷰- 1주차 (총 3주).md",
+    "CS/Certificate/List.md",
+    "CS/Certificate",
+    "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
     "Pasted image 20240313193112.png",
     "throw.md",
-    "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
     "CS/SQL/컬럼에 json 배열 만들기.md",
     "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
     "CS/SQL",
@@ -183,11 +186,9 @@
     "images",
     "CS/Spring/@SpringBootApplication.md",
     "CS/Linux/shell script 배치파일 만들기.md",
-    "CS/Spring/Spring의 컨셉.md",
     "CS/Linux",
     "CS/ETC/Blog/Jekyll",
     "CS/Ruby/Ruby features",
-    "CS/Ruby",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
