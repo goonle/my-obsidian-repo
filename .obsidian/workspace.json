@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
+                "file": "CS/JS/Framework/Vue의 기본문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
+                "file": "CS/JS/Framework/Vue의 기본문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
+                "file": "CS/JS/Framework/Vue의 기본문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JSP/TLD란.md"
+                "file": "CS/JS/Framework/Vue의 기본문법.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/Java Developer Roadmap/Java/donno/Are values returned by static method are static in Java.md",
+    "CS/JS/Framework/Vue 의 특징.md",
+    "CS/JS/Framework/Vue의 기본문법.md",
+    "CS/JS/버리기아까운코드/Dot sphere.md",
+    "CS/JS/Framework",
     "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
+    "CS/Java Developer Roadmap/Java/donno/Are values returned by static method are static in Java.md",
     "CS/Java Developer Roadmap/Java/JSP",
     "CS/Certificate/List.md",
     "CS/JS/library/3D/외주 코드 리뷰- 1주차 (총 3주).md",
@@ -182,13 +186,9 @@
     "Pasted image 20240125091656.png",
     "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
     "CS/Ruby/Ruby and variables.md",
-    "CS/Ruby/Ruby and block.md",
-    "CS/Ruby/Ruby and beyond basic.md",
     "images/Pasted image 20231107172616.png",
-    "CS/Spring/@RestController.md",
     "images",
     "CS/Linux",
-    "CS/ETC/Blog/Jekyll",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
