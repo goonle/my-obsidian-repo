@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CSS/Path tag.md",
+                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CSS/Path tag.md",
+                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CSS/Path tag.md",
+                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CSS/Path tag.md"
+                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md"
               }
             }
           }
@@ -149,14 +149,25 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/CSS/Idle navigation bar size.md",
+    "CS/JS/Framework/Vue/watch VS computed.md",
+    "CS/JS/Framework/Vue/Vue 비동기 요청.md",
+    "CS/JS/Framework/Vue/Vue 관찰 속성.md",
+    "CS/JS/Framework/Vue/Vue methods.md",
+    "CS/JS/Framework/Vue/Vue 의 특징.md",
+    "CS/JS/Framework/Vue/Vue 계산된 속성.md",
+    "CS/JS/Framework/Vue/Vue의 기본문법 - 5.md",
+    "CS/JS/Framework/Vue/Vue의 기본문법 - 4.md",
+    "CS/JS/Framework/Vue/Vue의 기본문법 - 3.md",
+    "CS/JS/Framework/Vue/Vue의 기본문법 - 2.md",
+    "CS/JS/Framework/Vue/Vue의 기본문법 - 1.md",
+    "CS/JS/Framework/Vue/Vue 인스턴스.md",
     "CS/CSS/Path tag.md",
+    "CS/JS/Framework/Vue",
+    "CS/CSS/Idle navigation bar size.md",
     "CS/GLSL/GSLS 기초 - 1.md",
     "CS/GLSL/Untitled.md",
     "CS/GLSL",
-    "CS/JS/Framework/Vue의 기본문법.md",
     "CS/JS/library/3D/Untitled.md",
-    "CS/JS/Framework/Vue 의 특징.md",
     "CS/JS/버리기아까운코드/Dot sphere.md",
     "CS/JS/Framework",
     "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
@@ -171,24 +182,13 @@
     "CS/SQL/컬럼에 json 배열 만들기.md",
     "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
     "CS/SQL",
-    "CS/Untitled.md",
-    "CS/Web Server/Nginx (엔진엑스)와 카나리 배포의 상관관계.md",
     "CS/Java Developer Roadmap/Java/lib",
-    "CS/Deploy/Canary Release(카나리 배포).md",
     "CS/Web Server",
-    "CS/Tips/BC4-4-for-window.md",
     "CS/Deploy",
-    "CS/Java Developer Roadmap/Java/donno/Generics.md",
-    "CS/JS/remove duplicates.md",
-    "CS/algorythms/baekjoon/17626.md",
-    "english/Engoo/Is 'Blue Monday' the Saddest Day of the Year.md",
-    "2023-12-18.md",
     "함수진화.png",
-    "CS/JS/createjs.md",
     "CS/SPLUNK",
     "Pasted image 20240125091656.png",
     "images/Pasted image 20231107172616.png",
-    "images",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
