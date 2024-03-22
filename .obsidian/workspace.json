@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS/Framework/Vue의 기본문법.md",
+                "file": "CS/CSS/Path tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS/Framework/Vue의 기본문법.md",
+                "file": "CS/CSS/Path tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS/Framework/Vue의 기본문법.md",
+                "file": "CS/CSS/Path tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS/Framework/Vue의 기본문법.md"
+                "file": "CS/CSS/Path tag.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/JS/Framework/Vue 의 특징.md",
+    "CS/CSS/Idle navigation bar size.md",
+    "CS/CSS/Path tag.md",
+    "CS/GLSL/GSLS 기초 - 1.md",
+    "CS/GLSL/Untitled.md",
+    "CS/GLSL",
     "CS/JS/Framework/Vue의 기본문법.md",
+    "CS/JS/library/3D/Untitled.md",
+    "CS/JS/Framework/Vue 의 특징.md",
     "CS/JS/버리기아까운코드/Dot sphere.md",
     "CS/JS/Framework",
     "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
@@ -179,16 +185,10 @@
     "2023-12-18.md",
     "함수진화.png",
     "CS/JS/createjs.md",
-    "fontawesome icon hex code.md",
-    "CS/JS/String.fromCharCode().md",
-    "CS/SPLUNK/Splunk 말이 출현하는 이유.md",
     "CS/SPLUNK",
     "Pasted image 20240125091656.png",
-    "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
-    "CS/Ruby/Ruby and variables.md",
     "images/Pasted image 20231107172616.png",
     "images",
-    "CS/Linux",
     "images/Pasted image 20231122081904.png",
     "images/Pasted image 20231116185513.png",
     "images/Pasted image 20231115090220.png",
