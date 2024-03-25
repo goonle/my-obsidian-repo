@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md",
+                "file": "CS/JS/Frontend/상태관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md",
+                "file": "CS/JS/Frontend/상태관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md",
+                "file": "CS/JS/Frontend/상태관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS/Framework/Vue/Vue 비동기 요청.md"
+                "file": "CS/JS/Frontend/상태관리.md"
               }
             }
           }
@@ -147,11 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b0d4a0633cd61fa",
+  "active": "89dc371415889b77",
   "lastOpenFiles": [
-    "CS/JS/Framework/Vue/watch VS computed.md",
-    "CS/JS/Framework/Vue/Vue 비동기 요청.md",
+    "CS/JS/Frontend",
+    "CS/JS/Framework/Vue/Vue 생명주기 메서드.md",
+    "CS/JS/Frontend/상태관리.md",
     "CS/JS/Framework/Vue/Vue 관찰 속성.md",
+    "CS/JS/Framework/Vue/Vue 비동기 요청.md",
+    "CS/JS/Framework/Vue/watch VS computed.md",
     "CS/JS/Framework/Vue/Vue methods.md",
     "CS/JS/Framework/Vue/Vue 의 특징.md",
     "CS/JS/Framework/Vue/Vue 계산된 속성.md",
@@ -178,9 +181,6 @@
     "CS/Certificate",
     "CS/Java Developer Roadmap/Java/donno/Throw vs Throws 차이.md",
     "Pasted image 20240313193112.png",
-    "throw.md",
-    "CS/SQL/컬럼에 json 배열 만들기.md",
-    "CS/Java Developer Roadmap/Java/lib/Connection Pool (커넥션 풀).md",
     "CS/SQL",
     "CS/Java Developer Roadmap/Java/lib",
     "CS/Web Server",
