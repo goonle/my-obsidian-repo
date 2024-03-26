@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS/Frontend/상태관리.md",
+                "file": "CS/Design Pattern/Command Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS/Frontend/상태관리.md",
+                "file": "CS/Design Pattern/Command Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS/Frontend/상태관리.md",
+                "file": "CS/Design Pattern/Command Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS/Frontend/상태관리.md"
+                "file": "CS/Design Pattern/Command Pattern.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89dc371415889b77",
+  "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
+    "CS/JS/Frontend/상태관리.md",
+    "CS/Design Pattern/Command Pattern.md",
+    "CS/Design Pattern",
     "CS/JS/Frontend",
     "CS/JS/Framework/Vue/Vue 생명주기 메서드.md",
-    "CS/JS/Frontend/상태관리.md",
     "CS/JS/Framework/Vue/Vue 관찰 속성.md",
     "CS/JS/Framework/Vue/Vue 비동기 요청.md",
     "CS/JS/Framework/Vue/watch VS computed.md",
@@ -184,9 +186,7 @@
     "CS/SQL",
     "CS/Java Developer Roadmap/Java/lib",
     "CS/Web Server",
-    "CS/Deploy",
     "함수진화.png",
-    "CS/SPLUNK",
     "Pasted image 20240125091656.png",
     "images/Pasted image 20231107172616.png",
     "images/Pasted image 20231122081904.png",
