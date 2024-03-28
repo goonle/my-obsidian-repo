@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Filter.md",
+                "file": "CS/JS/Frontend/html 템플릿화.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc38b59d7374cbba",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Filter.md",
+                "file": "CS/JS/Frontend/html 템플릿화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Filter.md",
+                "file": "CS/JS/Frontend/html 템플릿화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/donno/Filter.md"
+                "file": "CS/JS/Frontend/html 템플릿화.md"
               }
             }
           }
@@ -149,8 +150,11 @@
   },
   "active": "8b0d4a0633cd61fa",
   "lastOpenFiles": [
-    "CS/Java Developer Roadmap/Java/donno/Handler VS Controller.md",
+    "Book/내적 에너지를 관리하는 방법.md",
+    "CS/JS/Frontend/html 템플릿화.md",
+    "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
     "CS/Java Developer Roadmap/Java/donno/Filter.md",
+    "CS/Java Developer Roadmap/Java/donno/Handler VS Controller.md",
     "CS/Design Pattern/Command Pattern.md",
     "CS/JS/Frontend/상태관리.md",
     "CS/Design Pattern",
@@ -177,10 +181,7 @@
     "CS/JS/library/3D/Untitled.md",
     "CS/JS/버리기아까운코드/Dot sphere.md",
     "CS/JS/Framework",
-    "CS/Java Developer Roadmap/Java/JSP/TLD란.md",
-    "CS/Java Developer Roadmap/Java/donno/Are values returned by static method are static in Java.md",
     "CS/Java Developer Roadmap/Java/JSP",
-    "CS/Certificate/List.md",
     "CS/Certificate",
     "Pasted image 20240313193112.png",
     "CS/SQL",
