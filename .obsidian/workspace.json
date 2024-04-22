@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3bd0c64be5e032a4",
+        "id": "12dcf55ee144b9f6",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ae77ce1d05682a",
+            "id": "bc03649bccdf70b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x02강 - 공부.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "13af3a1e079f938f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x02강 - 공부.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x02강 - 공부.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x02강 - 공부.md"
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md"
               }
             }
           }
@@ -159,9 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13af3a1e079f938f",
+  "active": "bc03649bccdf70b0",
   "lastOpenFiles": [
+    "Pasted image 20240423085805.png",
     "CS/algorithms/baaarkingdog/0x02강 - 공부.md",
+    "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
+    "CS/Java Developer Roadmap/Java/OOP",
+    "CS/Untitled",
     "CS/algorithms/baaarkingdog/0x02강 - 기초코드 작성요령2.md",
     "CS/algorithms/baaarkingdog/c++로 알고리즘을 시작하는 이유.md",
     "CS/algorithms/baekjoon/10773.md",
@@ -188,16 +180,12 @@
     "CS/JS/Framework/Vue/Vue의 기본문법 - 3.md",
     "CS/JS/Framework/Vue/Vue의 기본문법 - 2.md",
     "CS/JS/Framework/Vue/Vue의 기본문법 - 1.md",
-    "CS/JS/Framework/Vue/Vue 인스턴스.md",
-    "CS/CSS/Path tag.md",
     "CS/JS/Framework/Vue",
     "CS/GLSL",
     "CS/JS/Framework",
     "CS/Java Developer Roadmap/Java/JSP",
     "CS/Certificate",
     "Pasted image 20240313193112.png",
-    "CS/SQL",
-    "CS/Java Developer Roadmap/Java/lib",
     "함수진화.png",
     "Pasted image 20240125091656.png",
     "images/Pasted image 20231107172616.png",
