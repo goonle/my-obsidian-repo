@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md"
+                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md"
               }
             }
           }
@@ -149,9 +149,16 @@
   },
   "active": "bc03649bccdf70b0",
   "lastOpenFiles": [
+    "CS/Java Developer Roadmap/Java/OOP/캡슐화.md",
+    "CS/Java Developer Roadmap/Java/OOP/일반화.md",
+    "CS/Java Developer Roadmap/Java/OOP/추상화.md",
+    "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
+    "Pasted image 20240423191814.png",
+    "Pasted image 20240423191326.png",
+    "Pasted image 20240423191237.png",
+    "CS/Java Developer Roadmap/Java/donno/Iterator란.md",
     "Pasted image 20240423085805.png",
     "CS/algorithms/baaarkingdog/0x02강 - 공부.md",
-    "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
     "CS/Java Developer Roadmap/Java/OOP",
     "CS/Untitled",
     "CS/algorithms/baaarkingdog/0x02강 - 기초코드 작성요령2.md",
@@ -177,9 +184,6 @@
     "CS/JS/Framework/Vue/Vue 계산된 속성.md",
     "CS/JS/Framework/Vue/Vue의 기본문법 - 5.md",
     "CS/JS/Framework/Vue/Vue의 기본문법 - 4.md",
-    "CS/JS/Framework/Vue/Vue의 기본문법 - 3.md",
-    "CS/JS/Framework/Vue/Vue의 기본문법 - 2.md",
-    "CS/JS/Framework/Vue/Vue의 기본문법 - 1.md",
     "CS/JS/Framework/Vue",
     "CS/GLSL",
     "CS/JS/Framework",
@@ -190,9 +194,6 @@
     "Pasted image 20240125091656.png",
     "images/Pasted image 20231107172616.png",
     "images/Pasted image 20231122081904.png",
-    "images/Pasted image 20231116185513.png",
-    "images/Pasted image 20231115090220.png",
-    "images/Pasted image 20231115090219.png",
-    "images/Pasted image 20231108150416.png"
+    "images/Pasted image 20231116185513.png"
   ]
 }

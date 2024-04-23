@@ -38,3 +38,33 @@ public class Account {
 
 ![[Pasted image 20240423085805.png]]
 
+### 12. 그림 1-14를 구현한 코드 (48쪽 체크포인트 해설 참조)에서 과목의 수강생을 구하는 getStudents 메서드를 구현하라.
+
+``` java
+import java.util.Vector
+public class Course {
+	private String name;
+	private Vector<Student> students;
+	
+	public Vector<Student> getStudents(){
+		return students;
+	}
+}
+
+
+// 정답
+public Vector<Student> getStudents(){
+	Vector<Student> students = new Vector<Student>();
+	Iterator<Transcript> itor = transcripts.iterator();
+
+	while(itor.hasNext()){
+		Transcript tr = iter.next();
+		students.add(tr.getStudent());
+	}
+	return students;
+}
+```
+
+
+### 14. 다음 설명에 맞는 클래스 다이어그램을 작성하라.
+![[Pasted image 20240423191326.png]]
