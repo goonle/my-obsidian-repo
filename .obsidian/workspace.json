@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 89 체크포인트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 89 체크포인트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md",
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 89 체크포인트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/OOP/일반화.md"
+                "file": "CS/Java Developer Roadmap/Java/OOP/page 89 체크포인트.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "bc03649bccdf70b0",
   "lastOpenFiles": [
-    "CS/Java Developer Roadmap/Java/OOP/캡슐화.md",
+    "CS/Java Developer Roadmap/Java/OOP/피터코드의 상속규칙.md",
+    "CS/Java Developer Roadmap/Java/OOP/page 89 체크포인트.md",
+    "CS/Java Developer Roadmap/Java/OOP/다형성.md",
     "CS/Java Developer Roadmap/Java/OOP/일반화.md",
+    "CS/Java Developer Roadmap/Java/OOP/위임.md",
+    "CS/Java Developer Roadmap/Data structures and Algorithms/ArrayList.md",
+    "CS/Java Developer Roadmap/Java/OOP/캡슐화.md",
     "CS/Java Developer Roadmap/Java/OOP/추상화.md",
     "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
     "Pasted image 20240423191814.png",
@@ -179,11 +184,6 @@
     "CS/JS/Framework/Vue/Vue 관찰 속성.md",
     "CS/JS/Framework/Vue/Vue 비동기 요청.md",
     "CS/JS/Framework/Vue/watch VS computed.md",
-    "CS/JS/Framework/Vue/Vue methods.md",
-    "CS/JS/Framework/Vue/Vue 의 특징.md",
-    "CS/JS/Framework/Vue/Vue 계산된 속성.md",
-    "CS/JS/Framework/Vue/Vue의 기본문법 - 5.md",
-    "CS/JS/Framework/Vue/Vue의 기본문법 - 4.md",
     "CS/JS/Framework/Vue",
     "CS/GLSL",
     "CS/JS/Framework",
