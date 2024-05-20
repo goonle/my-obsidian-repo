@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x06강 - 큐.md",
+                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x06강 - 큐.md",
+                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x06강 - 큐.md",
+                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/algorithms/baaarkingdog/0x06강 - 큐.md"
+                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "bc03649bccdf70b0",
   "lastOpenFiles": [
-    "CS/algorithms/baaarkingdog/0x05강 - 스택.md",
+    "CS/algorithms/baaarkingdog/0x07강 - 덱.md",
     "CS/algorithms/baaarkingdog/0x06강 - 큐.md",
-    "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
+    "CS/algorithms/baaarkingdog/0x05강 - 스택.md",
     "CS/Java Developer Roadmap/Java/OOP/page 89 체크포인트.md",
+    "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
     "CS/Java Developer Roadmap/Java/JPA",
     "CS/Java Developer Roadmap/Java/OOP/피터코드의 상속규칙.md",
     "CS/Java Developer Roadmap/Java/OOP/다형성.md",
@@ -184,7 +185,6 @@
     "CS/JS/Frontend/상태관리.md",
     "CS/Design Pattern",
     "CS/JS/Frontend",
-    "CS/JS/Framework/Vue/Vue 생명주기 메서드.md",
     "CS/JS/Framework/Vue",
     "CS/GLSL",
     "CS/JS/Framework",
