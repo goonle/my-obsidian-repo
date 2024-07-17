@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12dcf55ee144b9f6",
+        "id": "75adcbc942a9a5ed",
         "type": "tabs",
         "children": [
           {
-            "id": "bc03649bccdf70b0",
+            "id": "468e95bd1a21353a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
+                "file": "CS/Design Pattern/SOLID - O.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
+                "file": "CS/Design Pattern/SOLID - O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
+                "file": "CS/Design Pattern/SOLID - O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md"
+                "file": "CS/Design Pattern/SOLID - O.md"
               }
             }
           }
@@ -147,53 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc03649bccdf70b0",
+  "active": "468e95bd1a21353a",
   "lastOpenFiles": [
-    "CS/algorithms/baaarkingdog/0x07강 - 덱.md",
-    "CS/algorithms/baaarkingdog/0x06강 - 큐.md",
-    "CS/algorithms/baaarkingdog/0x05강 - 스택.md",
-    "CS/Java Developer Roadmap/Java/OOP/page 89 체크포인트.md",
-    "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
+    "CS/Design Pattern/SOLID - S.md",
+    "CS/Design Pattern/SOLID - O.md",
+    "CS/JS/파일 변수 Deep-Dive (kakao FE기술블로그)를 읽고.md",
+    "english/Engoo/2024-07-12 Samsung Electronics Workers on 'Indefinite' Strike.md",
+    "CS/Python/fastapi.md",
+    "english/Engoo/2024-07-08 755,800 People at risk of famine in Sudan.md",
+    "english/Engoo/2024-07-03 Low-calorie sweetener linked to heart problems.md",
+    "clot.png",
+    "fragment.png",
+    "제목 없음.png",
+    "cardiovascular.png",
+    "제목 없음 (1).png",
+    "Pasted image 20240703131244.png",
+    "CS/JS/Teach Team member/카운트 세는 방법.md",
+    "CS/CSS/BEM (Block, Element, Modifier).md",
+    "CS/JS/Teach Team member",
+    "CS/Tool/pgAdmin4/Grant Access Privileges to a role for all tables i.md",
+    "english/Engoo/2024-06-26 Man up, don't cry - What is toxic masculinity.md",
+    "CS/Tool/pgAdmin4/forgot password.md",
+    "CS/Tool/pgAdmin4/When cannot login.md",
+    "Pasted image 20240626082711.png",
+    "Pasted image 20240626082647.png",
+    "english/Engoo/2024-06-24 Why do people watch other people play video games.md",
+    "CS/Tool/pgAdmin4",
+    "CS/Tool",
+    "english/Engoo/2024-06-25 Japan to boost pension enrollment for foreign workers.md",
+    "english/Engoo/Is 'Blue Monday' the Saddest Day of the Year.md",
+    "english/Engoo/2024-06-19 The World's First Convinience Store.md",
+    "english/Engoo/Study Looks a t Parents' Influence on College Choices.md",
+    "english/Engoo/2024-06-19 The 'C' Words- Correlation Doesn't Equal Causation.md",
+    "english/Engoo/2024-06-13 Service dogs help ease Veteran's PTSD Symptoms.md",
+    "english/Engoo/2024-06-12 Japan's Economy Shrinks, but Less than Previously Thought.md",
+    "CS/JS/버리기아까운코드/Korean Bootstrap autoComplete.md",
+    "english/Engoo/2024-06-11 Activists Fly Propaganda Leaflets into North Korea.md",
+    "english/Engoo/2024-06-10 japan discusses increasing definition of old to 70.md",
+    "CS/Java Developer Roadmap/Java/SpringSecurity/JWT Manager.md",
+    "CS/Java Developer Roadmap/Java/SpringSecurity/CSRF.md",
+    "CS/Java Developer Roadmap/Java/SpringSecurity",
     "CS/Java Developer Roadmap/Java/JPA",
-    "CS/Java Developer Roadmap/Java/OOP/피터코드의 상속규칙.md",
-    "CS/Java Developer Roadmap/Java/OOP/다형성.md",
-    "CS/Java Developer Roadmap/Java/OOP/일반화.md",
-    "CS/Java Developer Roadmap/Java/OOP/위임.md",
-    "CS/Java Developer Roadmap/Data structures and Algorithms/ArrayList.md",
-    "CS/Java Developer Roadmap/Java/OOP/캡슐화.md",
-    "CS/Java Developer Roadmap/Java/OOP/추상화.md",
-    "CS/Java Developer Roadmap/Java/OOP/page 55 연습문제.md",
     "Pasted image 20240423191814.png",
     "Pasted image 20240423191326.png",
-    "Pasted image 20240423191237.png",
-    "CS/Java Developer Roadmap/Java/donno/Iterator란.md",
-    "Pasted image 20240423085805.png",
-    "CS/algorithms/baaarkingdog/0x02강 - 공부.md",
     "CS/Java Developer Roadmap/Java/OOP",
-    "CS/Untitled",
-    "CS/algorithms/baaarkingdog/0x02강 - 기초코드 작성요령2.md",
-    "CS/algorithms/baaarkingdog/c++로 알고리즘을 시작하는 이유.md",
-    "CS/algorithms/baekjoon/10773.md",
     "CS/algorithms/baaarkingdog",
-    "CS/algorithms/baekjoon/10816.md",
-    "CS/JS/Frontend/html 템플릿화.md",
-    "Book/내적 에너지를 관리하는 방법.md",
-    "Book/모든 것이 기본에서 시작된다. - written by 손웅정.md",
-    "CS/Java Developer Roadmap/Java/donno/Filter.md",
-    "CS/Java Developer Roadmap/Java/donno/Handler VS Controller.md",
-    "CS/Design Pattern/Command Pattern.md",
-    "CS/JS/Frontend/상태관리.md",
     "CS/Design Pattern",
     "CS/JS/Frontend",
-    "CS/JS/Framework/Vue",
-    "CS/GLSL",
-    "CS/JS/Framework",
-    "CS/Java Developer Roadmap/Java/JSP",
-    "Pasted image 20240313193112.png",
-    "함수진화.png",
-    "Pasted image 20240125091656.png",
-    "images/Pasted image 20231107172616.png",
-    "images/Pasted image 20231122081904.png",
-    "images/Pasted image 20231116185513.png"
+    "CS/JS/Framework/Vue"
   ]
 }
