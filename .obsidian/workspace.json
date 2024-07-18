@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Design Pattern/SOLID - O.md",
+                "file": "CS/Design Pattern/SOLID - L.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Design Pattern/SOLID - O.md",
+                "file": "CS/Design Pattern/SOLID - L.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Design Pattern/SOLID - O.md",
+                "file": "CS/Design Pattern/SOLID - L.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Design Pattern/SOLID - O.md"
+                "file": "CS/Design Pattern/SOLID - L.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "468e95bd1a21353a",
   "lastOpenFiles": [
+    "CS/Design Pattern/SOLID - D.md",
     "CS/Design Pattern/SOLID - S.md",
     "CS/Design Pattern/SOLID - O.md",
+    "CS/Design Pattern/SOLID - I.md",
+    "CS/Design Pattern/SOLID - L.md",
+    "CS/Design Pattern/Command Pattern.md",
     "CS/JS/파일 변수 Deep-Dive (kakao FE기술블로그)를 읽고.md",
     "english/Engoo/2024-07-12 Samsung Electronics Workers on 'Indefinite' Strike.md",
     "CS/Python/fastapi.md",
@@ -182,10 +186,6 @@
     "english/Engoo/2024-06-13 Service dogs help ease Veteran's PTSD Symptoms.md",
     "english/Engoo/2024-06-12 Japan's Economy Shrinks, but Less than Previously Thought.md",
     "CS/JS/버리기아까운코드/Korean Bootstrap autoComplete.md",
-    "english/Engoo/2024-06-11 Activists Fly Propaganda Leaflets into North Korea.md",
-    "english/Engoo/2024-06-10 japan discusses increasing definition of old to 70.md",
-    "CS/Java Developer Roadmap/Java/SpringSecurity/JWT Manager.md",
-    "CS/Java Developer Roadmap/Java/SpringSecurity/CSRF.md",
     "CS/Java Developer Roadmap/Java/SpringSecurity",
     "CS/Java Developer Roadmap/Java/JPA",
     "Pasted image 20240423191814.png",
