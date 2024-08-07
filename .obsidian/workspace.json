@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Design Pattern/SOLID 연습문제 오답 모음.md",
+                "file": "CS/Design Pattern/순차 다이어그램-check point.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Design Pattern/SOLID 연습문제 오답 모음.md",
+                "file": "CS/Design Pattern/순차 다이어그램-check point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Design Pattern/SOLID 연습문제 오답 모음.md",
+                "file": "CS/Design Pattern/순차 다이어그램-check point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Design Pattern/SOLID 연습문제 오답 모음.md"
+                "file": "CS/Design Pattern/순차 다이어그램-check point.md"
               }
             }
           },
@@ -158,6 +158,15 @@
   },
   "active": "468e95bd1a21353a",
   "lastOpenFiles": [
+    "Pasted image 20240807080906.png",
+    "CS/Design Pattern/순차 다이어그램-check point.md",
+    "Pasted image 20240807081335.png",
+    "Pasted image 20240807081330.png",
+    "Pasted image 20240807080925.png",
+    "Pasted image 20240807080909.png",
+    "CS/Java Developer Roadmap/Java/JPA/JPA Query Method.md",
+    "CS/algorithms/baaarkingdog/0x07강 - 덱.md",
+    "CS/algorithms/baaarkingdog/0x06강 - 큐.md",
     "CS/Design Pattern/SOLID 연습문제 3.md",
     "CS/Design Pattern/SOLID 연습문제 오답 모음.md",
     "CS/Design Pattern/SOLID 연습문제 2.md",
@@ -179,26 +188,16 @@
     "제목 없음.png",
     "cardiovascular.png",
     "제목 없음 (1).png",
-    "Pasted image 20240703131244.png",
     "CS/JS/Teach Team member/카운트 세는 방법.md",
     "CS/CSS/BEM (Block, Element, Modifier).md",
     "CS/JS/Teach Team member",
     "CS/Tool/pgAdmin4/Grant Access Privileges to a role for all tables i.md",
     "english/Engoo/2024-06-26 Man up, don't cry - What is toxic masculinity.md",
     "CS/Tool/pgAdmin4/forgot password.md",
-    "CS/Tool/pgAdmin4/When cannot login.md",
-    "Pasted image 20240626082711.png",
-    "Pasted image 20240626082647.png",
-    "english/Engoo/2024-06-24 Why do people watch other people play video games.md",
     "CS/Tool/pgAdmin4",
     "CS/Tool",
-    "english/Engoo/2024-06-25 Japan to boost pension enrollment for foreign workers.md",
-    "english/Engoo/Is 'Blue Monday' the Saddest Day of the Year.md",
-    "english/Engoo/2024-06-19 The World's First Convinience Store.md",
     "CS/Java Developer Roadmap/Java/SpringSecurity",
     "CS/Java Developer Roadmap/Java/JPA",
-    "Pasted image 20240423191814.png",
-    "Pasted image 20240423191326.png",
     "CS/Java Developer Roadmap/Java/OOP",
     "CS/algorithms/baaarkingdog",
     "CS/Design Pattern",
